@@ -1,8 +1,8 @@
-- 👋 Hi, I'm @cuddial
+- 👋 Hi, I'm @cuddiale
 - 👀 I am interested in Gaming, 3D printing and Coding
 - 🌱 I am currently learning the basics of coding
 - 💞️ I am looking to collaborate on fullstack projects
-- 📫 How to reach me, send me a message on instagrama.
+- 📫 How to reach me, send me a message on instagram.
 https://www.instagram.com/alessiocuddretto/
 
 <!---
