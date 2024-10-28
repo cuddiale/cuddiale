@@ -1,9 +1,3 @@
-<br clear="both">
-
-<img align="right" height="185" src="https://avatars.githubusercontent.com/u/145664111?s=400&u=4a4c089ead11442e0cebc87fd6d11c21ae51edb9&v=4"  />
-
-###
-
 <h1 align="center">Hey 👋 <br>I'm Alessio!</h1>
 
 ###
