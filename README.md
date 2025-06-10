@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">✨ I am a 95' Italian student enrolled at university in software engineering.💻<br>📚 I'm currently learning arduino programming and prototyping. 🤖<br>🎯 Goals: building a robot! 🤖<br>🎲 hobby: Nerd, gaming and robotics! 👾</p>
+<p align="left">✨ I am a 95' Italian software engineering.💻<br>📚 I'm currently learning arduino programming and prototyping. 🤖<br>🎯 Goals: building a robot! 🤖<br>🎲 hobby: Nerd, gaming and robotics! 👾</p>
 
 ###
 
