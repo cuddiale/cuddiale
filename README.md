@@ -1,4 +1,4 @@
-<img align="right" height="120" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGRsaWx1Y2l1bHRqcWJrZXM3a3IzZGs4aHF5c3F5OXNxcmQyZzk4NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3iyKHMIKg5VWG6qHUm/giphy.gif"  />
+<img align="right" height="120" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGRsaWx1Y2l1bHRqcWJrZXM3a3IzZGs4aHF5c3F5OXNxcmQyZzk4NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3iyKHMIKg5VWG6qHUm/giphy.gif" />
 
 ###
 
@@ -6,11 +6,20 @@
 
 ###
 
-<h2 align="left">👩‍💻  Su di me</h2>
+<h2 align="left">👨‍💻 Su di me</h2>
 
 ###
 
-<p align="left">Sono un ingegnere informatico con una passione per lo sviluppo hardware e software.<br>Non c'è cosa che mi entusiasma di più che risolvere problemi complessi di codice.<br><br>Le mie passioni sono il Gaming e tutto ciò che è “Nerd”, mi diverto a creare prototipi con la stampante 3D e vederli prendere vita con Arduino, oltre alla programmazione con Udemy che nasce dalla mia passione per i videogiochi.<br><br>Durante il mio percorso ho spaziato fra diversi ambiti, iniziando come web developer, abbracciando tecnologie come HTML, CSS, JavaScrips fino a Python, PHP, C# ed altre ancora, attualmente mi dedico a progetti personali, che possono essere sia nell'ambito del gaming o prototipazione, ma sono sempre pronto a cogliere nuovi stimoli e opportunità dal settore.</p>
+<p align="left">
+Sono un <b>Ingegnere Informatico</b> con una forte passione per la creazione di soluzioni software complete ed estensioni web, curando l'intero ciclo applicativo: dalla progettazione dei database relazionali e logiche backend al design di interfacce utente fluide (UI/UX).<br><br>
+
+Attualmente sono focalizzato sul consolidamento del ruolo di <b>Junior Full Stack Web Developer</b>, sviluppando e documentando su GitHub progetti personali che spaziano da:
+<br>
+• 🌐 <b>Siti Web & Piattaforme Full Stack:</b> applicativi dinamici con gestione e integrazione di DB relazionali.<br>
+• 🧩 <b>Browser Extensions:</b> estensioni personalizzate per ottimizzare l'interazione utente.<br>
+• 🎮 <b>Web & Mobile Games:</b> giochi interattivi fruibili direttamente da browser.<br>
+• 🛠️ <b>Maker & Prototipazione:</b> progetti hardware con <b>Arduino</b>, stampa 3D e script in <b>Python</b>.
+</p>
 
 ###
 
@@ -18,34 +27,41 @@
 
 ###
 
-<p align="left">Durante il mio percorso, ho avuto modo di esplorare diverse tecnologie e linguaggi che mi permettono di dare forma alle mie idee. <br>Qui sotto trovi alcune delle mie tecnologie preferite:</p>
+<p align="left">Di seguito alcune delle tecnologie principali che utilizzo quotidianamente nei miei progetti:</p>
 
 ###
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" alt="python logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" alt="javascript logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="45" alt="java logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="45" alt="arduino logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="45" alt="unity logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45" alt="html5 logo" />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45" alt="css3 logo" />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" alt="javascript logo" />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" alt="python logo" />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="45" alt="mysql logo" />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45" alt="git logo" />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="45" alt="arduino logo" />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="45" alt="figma logo" />
 </div>
 
 ###
 
-<h3 align="left">🔗  Troviamoci in Rete!</h3>
+<h3 align="left">🔗 Troviamoci in Rete!</h3>
 
 ###
 
 <div align="center">
   <a href="https://www.linkedin.com/in/alessiocuddretto95/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo" />
+  </a>
   </a>
   <a href="https://www.instagram.com/alessiocuddretto/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="instagram logo"  />
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="instagram logo" />
   </a>
 </div>
 
