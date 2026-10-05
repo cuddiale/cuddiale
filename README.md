@@ -43,11 +43,10 @@ Attualmente sono focalizzato sul consolidamento del ruolo di <b>Junior Full Stac
 
 <br>
 
-<h3 align="left">📊 Statistiche e Contributi GitHub</h3>
+<h3 align="left">📊 Contributi GitHub</h3>
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=cuddiale&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=cuddiale&theme=tokyonight" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=cuddiale&theme=github&area=true&hide_border=true" />
 </div>
 
 <br>
